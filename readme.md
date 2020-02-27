@@ -1,3 +1,1 @@
-venv\Scripts\activate
-
-deactivate
+privide the barcode openCV reader.
