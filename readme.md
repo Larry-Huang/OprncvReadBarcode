@@ -1,1 +1,1 @@
-privide the barcode openCV reader.
+# The barcode openCV reader.
